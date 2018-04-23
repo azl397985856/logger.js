@@ -1,4 +1,4 @@
-import { debug, silly, log, info, warn, error } from '@/utils/logger';
+import { debug, silly, log, info, warn, error } from './logger';
 
 describe('utils', function() {
   describe('logger', function() {
